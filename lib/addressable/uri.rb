@@ -18,7 +18,6 @@
 
 
 require "addressable/version"
-require "addressable/idna"
 require "public_suffix"
 
 ##
